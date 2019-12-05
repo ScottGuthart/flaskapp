@@ -1,0 +1,2 @@
+FLASK_APP=gsheets.py
+FLASK_DEBUG=1
