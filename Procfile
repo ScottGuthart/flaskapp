@@ -1,1 +1,1 @@
-web: gunicorn gsheets.py:app
+web: gunicorn gsheets:app
