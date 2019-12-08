@@ -1,2 +1,2 @@
-FLASK_APP=gsheets.py
+FLASK_APP=flaskapp.py
 FLASK_DEBUG=1
